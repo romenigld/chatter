@@ -1,4 +1,4 @@
-defmodule ChatterWeb.UserVisitsHomepageTest do
+defmodule ChatterWeb.UserVisitsHomePageTest do
   use ChatterWeb.FeatureCase, async: true
 
   test "user can visit homepage", %{session: session} do
